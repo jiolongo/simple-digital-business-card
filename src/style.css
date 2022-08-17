@@ -13,14 +13,113 @@ body{
 
 
 .card{
-    width: 400px;
-    margin: 0 auto;
+    width: 317px;
+    margin: 25px auto;
+    background: #1A1B21;
+    height: 100%;
+    
 }
 
 .info-container{
+   
     text-align: center;
+    align-items: center;
     
 }
+
 .info-image{
+    height: 317px;
+    width: 317px;
+    border-radius: 10px 10px 0px 0px;
+}
+
+
+.info-details-name{
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 30px;
+}
+
+.info-details-profession{
+    color: #F3BF99;
+    font-size: 12.8px;
+}
+
+
+.info-details-email{
+    margin-top: 8px;
+    font-weight: 400;
+    font-size: 10.24px;
+}
+
+.info-button{
+    width: 120px;
+    height: 34px;
+    margin-top: 15px;
+    margin-left: 10px;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+    border-radius: 6px;
+}
+
+.info-button.linkedin{
+    background: #5093E2;
+    color: white;
    
+}
+
+.about-container{
+    width: 247px;
+    text-align: justify;
+    align-items: center;
+    margin: 25px auto;
+}
+
+
+
+.about1{
+    color: white;
+    font-size: 16px;
+}
+
+.about2{
+    font-size: 10.24px;
+    color: #DCDCDC;
+    font-weight: 400;
+    line-height: 150%;  
+}
+
+.interest-container{
+    width: 247px;
+    text-align: justify;
+    align-items: center;
+    margin: 25px auto;
+}
+
+.interest1{
+    color: white;
+    font-size: 16px;
+}
+
+.interest2{
+    font-size: 10.24px;
+    color: #DCDCDC;
+    font-weight: 400;
+    line-height: 150%;  
+}
+
+.footer-container{
+    height: 64px;
+    width: 317px; 
+    background: #161619;
+    border-radius: 0px 0px 10px 10px;
+    text-align: center;
+
+}
+
+
+.footer-container .icon{
+    font-size: 50px;
+    margin: 0 5px;
+    color: #918E9B;
+    background: black;
 }

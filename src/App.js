@@ -1,8 +1,8 @@
 import React from 'react'
 import Info from "./components/Info"
-//import About from "./components/About"
-//import Interest from "./components/Interest"
-//import Footer from "./components/Footer"
+import About from "./components/About"
+import Interest from "./components/Interest"
+import Footer from "./components/Footer"
 import "./style.css"
 
 
@@ -11,9 +11,9 @@ import "./style.css"
       <>
       <div class="card">
       <Info />
-      {/* <About />
+      <About />
       <Interest />
-      <Footer /> */}
+      <Footer /> 
 
       </div>
       </>  
