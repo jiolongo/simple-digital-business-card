@@ -1,6 +1,6 @@
 # simple-digital-business-card
 
-scrimba solo project / react course
+scrimba solo project 1 / react course
 Static website
 
 # Getting Started with Create React App
